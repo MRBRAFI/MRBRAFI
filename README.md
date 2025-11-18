@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/bgZ7yRNV/Group-5.png" width="100%" />
+  <img src="https://i.ibb.co/bgZ7yRNV/Group-5.png" width="20%" />
 </p>
 
 ### Hi there 👋, I am **Mrb Rafi**
