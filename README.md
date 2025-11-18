@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/kgZxs1Rq/Group-5-2.png" style="max-width:100%; height:auto;" />
+  <img src="https://i.ibb.co/kgZxs1Rq/Group-5-2.png" />
 </p>
 
 ### Hi there 👋, I am **Mrb Rafi**
 #### 💻 MERN Stack Web Developer
 
-I am an enthusiastic MERN web developer who started my journey through self-learning and building real-world projects using online resources.  
+I am an enthusiastic MERN web developer who started his journey through self-learning and building real-world projects using online resources.  
 I love creating clean UI, functional APIs, and full-stack applications.
 
 ---
