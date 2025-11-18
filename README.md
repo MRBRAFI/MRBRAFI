@@ -1,7 +1,7 @@
 ### Hi there 👋, I am  Mrb Rafi
 #### Mern stack web developer
 ![Mern stack web developer]
-(https://i.ibb.co.com/bgZ7yRNV/Group-5.png)
+<img src='https://i.ibb.co.com/bgZ7yRNV/Group-5.png' >
 
 I am an enthusiastic MERN web developer and I started my journey by self learning codes and doing projects by lending online resources. 
 
