@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/bgZ7yRNV/Group-5.png" width="100%" />
 </p>
