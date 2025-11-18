@@ -41,23 +41,9 @@ I love creating clean UI, functional APIs, and full-stack applications.
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://github.com/MRBRAF">
+  <a href="https://github.com/MRBRAFI">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/m.r.b.rafi.2025">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
   </a>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRBRAF&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBRAF&layout=compact&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MRBRAF&theme=radical" />
-</p>
