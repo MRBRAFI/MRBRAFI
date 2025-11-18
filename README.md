@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/bgZ7yRNV/Group-5.png" width="20%" />
+  <img src="https://i.ibb.co/bgZ7yRNV/Group-5.png" style="max-width:100%; height:auto;" />
 </p>
+
 
 ### Hi there 👋, I am **Mrb Rafi**
 #### 💻 MERN Stack Web Developer
