@@ -50,4 +50,6 @@ I love creating clean UI, functional APIs, and full-stack applications.
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBRAFI)](https://github.com/MRBRAFI/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MRBRAFI&show_icons=true"/>
+
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBRAFI&layout=compact"/>
