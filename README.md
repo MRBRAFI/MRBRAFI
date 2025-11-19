@@ -47,3 +47,7 @@ I love creating clean UI, functional APIs, and full-stack applications.
 </p>
 
 ---
+
+## My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBRAFI)](https://github.com/MRBRAFI/github-readme-stats)
